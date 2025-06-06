@@ -29,7 +29,7 @@ A personal productivity tool that allows users to manage tasks with priorities, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-manager-api.git
+   git clone https://github.com/xallley/task-manager-api.git
    cd task-manager-api
    ```
 
